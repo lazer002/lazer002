@@ -14,6 +14,16 @@ Programmer specialized in web development using multiple tools, frameworks and l
 
 - 📫 How to reach me **ajlazer002@gmail.com**
 
+<h3 align="left">Projects Preview</h3>
+![Uploading ezgif.com-optimize.gif…]()
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ajit.none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajit.none" height="30" width="40" /></a>
