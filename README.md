@@ -17,6 +17,8 @@ Programmer specialized in web development using multiple tools, frameworks and l
 <h3 align="left">📺 Some of my recent Projects </h3>
 
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4a71e91e-be7d-4eb3-ba87-9d4d9029a8ce.gif" alt="ajit.none" height="303" width="403" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4a71e91e-be7d-4eb3-ba87-9d4d9029a8ce.gif" alt="ajit.none" height="303" width="403" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4a71e91e-be7d-4eb3-ba87-9d4d9029a8ce.gif" alt="ajit.none" height="303" width="403" />
 
 
 
