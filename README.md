@@ -15,7 +15,8 @@ Programmer specialized in web development using multiple tools, frameworks and l
 - 📫 How to reach me **ajlazer002@gmail.com**
 
 <h3 align="left">📺 Some of my recent Projects </h3>
-![ezgif com-optimize](https://github.com/lazer002/lazer002/assets/129359686/c4da438d-d54f-4cc8-aecc-634c76b7730d)
+![1st](https://github.com/lazer002/lazer002/assets/129359686/ea9e7af0-14ac-41b9-9ea4-fcddd3f48228)
+
 
 
 
