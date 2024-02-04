@@ -16,12 +16,12 @@ Programmer specialized in web development using multiple tools, frameworks and l
 
 <h3 align="left">📺 Some of my recent Projects </h3>
 
-<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4a71e91e-be7d-4eb3-ba87-9d4d9029a8ce.gif" alt="ajit.none" height="210" width="260" />
-<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4ae045b5-3a3c-4f73-b877-538f1f0924f5.gif" alt="ajit.none" height="210" width="260" />
-<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/a7b844ef-4a9f-425c-9775-6122f64dc4b1.gif" alt="ajit.none" height="210" width="260" />
-<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/9751e28f-7fba-4f06-9de6-a9933016beb3.gif" alt="ajit.none" height="210" width="260" />
-<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/29fad5b9-34e8-44b2-94a3-2283b2b753cb.gif" alt="ajit.none" height="210" width="260" />
-<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/56acbf71-9c63-47fa-b8f9-03112bb1565c.gif" alt="ajit.none" height="210" width="260" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4a71e91e-be7d-4eb3-ba87-9d4d9029a8ce.gif" alt="ajit.none" height="180" width="260" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4ae045b5-3a3c-4f73-b877-538f1f0924f5.gif" alt="ajit.none" height="180" width="260" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/a7b844ef-4a9f-425c-9775-6122f64dc4b1.gif" alt="ajit.none" height="180" width="260" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/9751e28f-7fba-4f06-9de6-a9933016beb3.gif" alt="ajit.none" height="180" width="260" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/29fad5b9-34e8-44b2-94a3-2283b2b753cb.gif" alt="ajit.none" height="180" width="260" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/56acbf71-9c63-47fa-b8f9-03112bb1565c.gif" alt="ajit.none" height="180" width="260" />
 
 
 
