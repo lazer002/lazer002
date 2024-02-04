@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ajit Kumar</h1>
 <h5 align="center"> | Full-stack developer | Node/React developer | Web developer</h5>
 
-📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. 
+📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught Web developer also unstopped learner. 
 
 Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
 
@@ -19,7 +19,7 @@ Programmer specialized in web development using multiple tools, frameworks and l
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4a71e91e-be7d-4eb3-ba87-9d4d9029a8ce.gif" alt="ajit.none" height="210" width="260" />
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4ae045b5-3a3c-4f73-b877-538f1f0924f5.gif" alt="ajit.none" height="210" width="260" />
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/a7b844ef-4a9f-425c-9775-6122f64dc4b1.gif" alt="ajit.none" height="210" width="260" />
-<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/ae8b944c-213e-43e3-a7bc-8c2022d4a970.gif" alt="ajit.none" height="210" width="260" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/9751e28f-7fba-4f06-9de6-a9933016beb3.gif" alt="ajit.none" height="210" width="260" />
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/29fad5b9-34e8-44b2-94a3-2283b2b753cb.gif" alt="ajit.none" height="210" width="260" />
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/56acbf71-9c63-47fa-b8f9-03112bb1565c.gif" alt="ajit.none" height="210" width="260" />
 
