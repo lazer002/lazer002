@@ -14,6 +14,14 @@ Programmer specialized in web development using multiple tools, frameworks and l
 
 - 📫 How to reach me **ajlazer002@gmail.com**
 
+
+<h3 align="left">📺 Live Projects </h3>
+
+- Urban-Zoro <a href="https://urban-zoro.onrender.com" target="blank">Urban-Zoro</a>
+
+- Zoro.Pc <a href="https://lazer002.github.io/Zoro.pc/index.html" target="blank">Zoro.Pc</a> ( !imp read discription)
+
+
 <h3 align="left">📺 Some of my recent Projects </h3>
 
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4a71e91e-be7d-4eb3-ba87-9d4d9029a8ce.gif" alt="ajit.none" height="180" width="260" />
@@ -27,9 +35,6 @@ Programmer specialized in web development using multiple tools, frameworks and l
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/f9569933-b9c0-4a56-a627-b8be68dda1f8.gif" alt="ajit.none" height="180" width="260" />
 
 
-<h3 align="left">📺 Live Projects </h3>
-
-- Urban-Zoro <a href="https://urban-zoro.onrender.com" target="blank">Urban-Zoro</a>
 
 
 
