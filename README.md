@@ -19,7 +19,7 @@ Programmer specialized in web development using multiple tools, frameworks and l
 
 - Urban-Zoro <a href="https://urban-zoro.onrender.com" target="blank">Urban-Zoro</a>
 
-- Zoro.Pc <a href="https://lazer002.github.io/Zoro.pc/index.html" target="blank">Zoro.Pc</a> ( !imp read discription)
+- Zoro.Pc <a href="https://zoropc.onrender.com" target="blank">Zoro.Pc</a>
 
 
 <h3 align="left">📺 Some of my recent Projects </h3>
