@@ -36,6 +36,12 @@ Programmer specialized in web development using multiple tools, frameworks and l
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/4ae045b5-3a3c-4f73-b877-538f1f0924f5.gif" alt="ajit.none" height="180" width="260" />
 <img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/f9569933-b9c0-4a56-a627-b8be68dda1f8.gif" alt="ajit.none" height="180" width="260" />
 
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/5207725a-b494-432d-8dc9-1a412742667a.gif" alt="ajit.none" height="180" width="260" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/b24009df-7393-4b56-9a66-8150fc823e7b.gif" alt="ajit.none" height="180" width="260" />
+<img align="center" src="https://github.com/lazer002/lazer002/assets/129359686/46465514-be8f-4cd0-ab5f-e2ac39fd98af.gif" alt="ajit.none" height="180" width="260" />
+
+
+
 
 
 
