@@ -20,6 +20,8 @@ Programmer specialized in web development using multiple tools, frameworks and l
 
 - EnergyPlus <a href="https://energyplus.netlify.app" target="blank">EnergyPlus</a>
 
+- Vsee <a href="https://vsee.netlify.app" target="blank">Vsee</a>
+
 - Urban-Zoro <a href="https://urban-zoro.onrender.com" target="blank">Urban-Zoro</a>
 
 - Zoro.Pc <a href="https://zoropc.onrender.com" target="blank">Zoro.Pc</a>
