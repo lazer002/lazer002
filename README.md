@@ -18,13 +18,13 @@ Programmer specialized in web development using multiple tools, frameworks and l
 <h3 align="left">📺 Live Projects </h3>
 
 
-- EnergyPlus <a href="https://energyplus.netlify.app" target="blank">EnergyPlus</a>
-
-- Vsee <a href="https://vsee.netlify.app" target="blank">Vsee</a>
+- Zoro.Pc <a href="zoropc-ms59.onrender.com" target="blank">Zoro.Pc</a>
 
 - Urban-Zoro <a href="https://urban-zoro.onrender.com" target="blank">Urban-Zoro</a>
 
-- Zoro.Pc <a href="https://zoropc.onrender.com" target="blank">Zoro.Pc</a>
+- EnergyPlus <a href="https://energyplus.netlify.app" target="blank">EnergyPlus</a>
+
+- Vsee <a href="https://vsee.netlify.app" target="blank">Vsee</a>
 
 - Code+ <a href="https://code-ddlf.onrender.com" target="blank">Code+</a>
 
