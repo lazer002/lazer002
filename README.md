@@ -18,7 +18,7 @@ Programmer specialized in web development using multiple tools, frameworks and l
 <h3 align="left">📺 Live Projects </h3>
 
 
-- Zoro.Pc <a href="zoropc-ms59.onrender.com" target="blank">Zoro.Pc</a>
+- Zoro.Pc <a href="https://zoropc-ms59.onrender.com" target="blank">Zoro.Pc</a>
 
 - Urban-Zoro <a href="https://urban-zoro.onrender.com" target="blank">Urban-Zoro</a>
 
