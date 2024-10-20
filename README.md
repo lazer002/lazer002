@@ -6,9 +6,9 @@
 
 Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
 
-- 🔭 I’m currently working on [HMSI Honda](https://sampark.honda2wheelersindia.com)
+- 🔭 I’m currently working on (freelancer)
 
-- 🌱 I’m currently learning **react and nextjs**
+- 🌱 I’m currently learning **nextjs & Three.js**
 
 - 💬 Ask me about **frontend**
 
