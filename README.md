@@ -6,7 +6,7 @@
 
 Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
 
-- 🔭 I’m currently working on IDK
+- 🔭 I’m currently working on Hmm.... nice
 
 - 🌱 I’m currently learning **whatever depend on my mood**
 
