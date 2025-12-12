@@ -8,14 +8,14 @@ Programmer specialized in web development using multiple tools, frameworks and l
 
 - 🔭 I’m currently working on IDK
 
-- 🌱 I’m currently learning **nextjs & Three.js**
+- 🌱 I’m currently learning **whatever depend on my mood**
 
 - 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **ajlazer002@gmail.com**
 
 
-<h3 align="left">📺 Live Projects </h3>
+<h3 align="left">📺 old Live Projects </h3>
 
 
 - Zoro.Pc <a href="https://zoropc-ms59.onrender.com" target="blank">Zoro.Pc </a>
